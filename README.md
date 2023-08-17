@@ -6,6 +6,7 @@
 
 2 服务器IO监控
 
+    使用dstat ,iostat监控服务器端IO
 
 3  Linux内核IO跟踪
 
